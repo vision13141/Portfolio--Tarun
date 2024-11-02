@@ -11,6 +11,7 @@ const WrapMyWork = () => {
             <WorkCard img={Work1} text="Motion Graphics" Btext="Website" />
             <WorkCard img={Work2} text="E-Learning" Btext="IOS App" />
             </Flex>
+            
             <Flex className='gap-x-4'>
             <WorkCard img={Work1} text="Web Application" Btext="Desktop" />
             <WorkCard img={Work2} text="Visual Design" Btext="Desktop" />
