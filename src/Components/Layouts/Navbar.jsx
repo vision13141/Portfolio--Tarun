@@ -1,7 +1,7 @@
 import Container from "../Container"
 import Flex from "../Flex"
 import Image from "../Image"
-import Logo2 from '../../assets/Logo2.png'
+import Logo2 from '../../assets/logo2.png'
 import List from '../List'
 import { Link } from "react-router-dom"
 
