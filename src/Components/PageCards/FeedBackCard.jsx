@@ -6,7 +6,7 @@ import { HiOutlineArrowLongRight } from "react-icons/hi2";
 import Image from '../Image'
 
 import Ql1 from '../../assets/quote-left1.png'
-import Qr1 from '../../assets/quote-Right1.png'
+import Qr1 from '../../assets/quote-right1.png'
 import { IoCaretDownSharp } from "react-icons/io5";
 import { FaStar } from "react-icons/fa";
 import { FaStarHalfAlt } from "react-icons/fa";
