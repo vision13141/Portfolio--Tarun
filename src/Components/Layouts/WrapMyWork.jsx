@@ -6,7 +6,7 @@ import Flex from '../Flex'
 
 const WrapMyWork = () => {
     return (
-        <div className="max-w-[980px] ml-20">
+        <div className="max-w-[980px]  ml-0 md:ml-20">
             <Flex className='gap-x-4'>
             <WorkCard img={MWork1} text="Motion Graphics" Btext="Website" />
             <WorkCard img={Work2} text="E-Learning" Btext="IOS App" />

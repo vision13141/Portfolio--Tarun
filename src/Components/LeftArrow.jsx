@@ -4,9 +4,8 @@ const LeftArrow = (props) => {
     const { className, onClick } = props;
     return (
       <div
-      className={`${className} text-[44px]  absolute  ml-[1065px] -top-20 `}
-      // style={{ ...style, display: "inline-block", background: "red", }}
-      onClick={onClick}><FaArrowLeftLong className='text-fontColor hover:bg-btnbgColor hover:text-white hover:border-none p-2' /></div>
+      className={`${className} text-[44px] absolute left-[260px] md:ml-[775px] -top-5 md:-top-20 `}
+      onClick={onClick}><FaArrowLeftLong className='text-fontColor hover:bg-btnbgColor hover:text-white hover:border-none p-2 hidden md:block' /></div>
     )
 }
 

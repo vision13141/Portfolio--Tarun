@@ -5,7 +5,7 @@ const RightTwoArrow = (props) => {
     const { className, onClick } = props;
     return (
       <div
-      className={`${className} text-[60px]  absolute inline-block  right-[150px] top-1 `}
+      className={`${className} text-[40px] md:text-[60px]  absolute inline-block right-[35px] md:right-[150px] top-1 `}
       // style={{ ...style, display: "inline-block", background: "red", }}
       onClick={onClick}><FaArrowRight  className="text-fontColor rounded-full bg-white hover:text-btnbgColor hover:border-none  p-3"/></div>
     )
